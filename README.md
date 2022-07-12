@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Quentlac
+- 👋 Hi, I’m @Quentlac (Devistorm)
 - 👀 I’m interested in development of applications
 - 🌱 I’m currently learning Node JS
 - 📫 Reach me by email: quentlace2g@gmail.com
